@@ -222,4 +222,4 @@ EncryptOnClick is provided as a full free version, including all features and up
 Don't wait any longer! **Download EncryptOnClick for free today** and take the first step towards securing your sensitive files.
 
 ---
-**Last updated:** 2026-10-08 00:47:04 UTC
+**Last updated:** 2026-10-08 07:04:52 UTC
